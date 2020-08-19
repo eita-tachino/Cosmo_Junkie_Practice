@@ -206,6 +206,8 @@ footer img{
     border: 1px solid #ccc;
     border-radius: 4px;
     text-align: center;
+    background-color: #dddbff;
+    color: #0a0b5b;
     padding: 6px;
 }
 
